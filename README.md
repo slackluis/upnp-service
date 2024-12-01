@@ -11,9 +11,9 @@ Add an additional tool to the toolkit of avid homelabbers or individuals who mig
 [Docker Hub](https://hub.docker.com/repository/docker/slackluis/upnpc)
 
 ```bash
-docker pull projectinitiative/upnp-service:latest
+docker pull slackluis/upnpc:latest
 # OR
-docker pull ghcr.io/projectinitiative/upnp-service:latest
+docker pull ghcr.io/slackluis/upnpc:latest
 ```
 
 ## Usage
