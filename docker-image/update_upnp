@@ -3,6 +3,7 @@
 update_upnp()
 {
     APP_NAME=$1
+    REDIRECTIONS=""
     shift
     while (( "$#" )); do
         REDIRECTIONS="$REDIRECTIONS $1"
