@@ -6,7 +6,7 @@ Add an additional tool to the toolkit of avid homelabbers or individuals who mig
 
 ## Pulling the Container
 
-[ghcr](https://github.com/slackluis/upnpc/pkgs/container/upnp-service)
+[ghcr](https://github.com/slackluis/upnpc/pkgs/container/upnpc)
 
 [Docker Hub](https://hub.docker.com/repository/docker/slackluis/upnpc)
 
